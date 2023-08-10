@@ -1,1 +1,3 @@
 # calculatorapp
+
+it's a simple calculator web app where we can easily do calculation which related to divide, substract, and addition etc...
